@@ -28,7 +28,7 @@ I'm documenting a two-year journey toward becoming a Software Engineer by buildi
 - Compete in the Huawei ICT Competition
 - Earn cloud certifications
 - Launch production-ready applications
-- Document the entire journey through Dev Rogue
+- Document the entire journey through "The Rogue Files"
 
 ---
 *"Amatuers built the ARK, professionals built the TITANIC."*
