@@ -3,7 +3,7 @@
 # Hi, I'm Dev Rogue 
 I'm a **BSc (Hons) Applied Business Computing** student from **Botswana**. I'm documenting a **two-year journey** toward becoming a **Software Engineer** by building real projects, earning industry certifications, and sharing the process publicly. 
 
-## 🚀 Currently Working On:
+# Currently Working On:
 A FLAGSHIP PROJECT
 Cloud Computing 
 Huawei ICT Competition
