@@ -1,1 +1,1 @@
-The ROGUE Files
+![Banner](The Rogue Files banner.png)
