@@ -6,7 +6,7 @@ I'm a BSc (Hons) Applied Business Computing student studying at Botswana School 
 
 I'm documenting a two-year journey toward becoming a Software Engineer by building real projects, earning industry certifications, and sharing the process publicly.
 
-## Currently Working On
+Currently Working On
 
 -  A FLAGSHIP PROJECT
 -  Cloud Journey
