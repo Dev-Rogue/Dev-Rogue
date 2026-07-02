@@ -2,9 +2,7 @@
 
 # Hi, I'm Dev Rogue
 
-I'm a BSc (Hons) Applied Business Computing student studying at Botswana School of Business Sciences in Gaborone, Botswana.
-
-I'm documenting a two-year journey toward becoming a Software Engineer by building real projects, earning industry certifications, and sharing the process publicly.
+I'm a student studying in Gaborone, Botswana and I'm documenting a two-year journey toward becoming a Software Engineer by building real projects, earning industry certifications, and sharing the process publicly.
 
 ## Currently Working On
 
