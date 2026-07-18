@@ -52,5 +52,9 @@ I am currently enrolled in the **FNB App Academy**, where I am building practica
 - Launch production-ready applications
 - Document the entire journey through "The Rogue Files"
 
+## Professional Development
+
+
+
 ---
 *"Amatuers built the ARK, professionals built the TITANIC."*
